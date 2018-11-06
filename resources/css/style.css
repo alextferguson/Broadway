@@ -3,8 +3,8 @@ body {
   text-align: center;
 }
 
-.open {
-  background-image: url("resources/images/the-flatiron-building.png");
+.heading {
+  background-image: src=("resources/images/the-flatiron-building.png");
 }
 
 #footer {
